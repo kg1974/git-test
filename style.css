@@ -1,0 +1,85 @@
+@font-face {
+	font-family: "Roboto";
+	src: local("Roboto"),
+	url("..\fonts\Roboto.woff2") format("woff2"),
+	     url("..\fonts\Roboto.ttf") format("truetype");	
+font-weight: 400;
+font-style: normal;		 
+	
+}
+ @font-face {
+	font-family: "Roboto";
+	src: local("Roboto"),
+	url("..\fonts\Roboto.woff2") format("woff2"),
+	     url("..\fonts\Roboto.ttf") format("truetype");	
+font-weight: 700;
+font-style: normal;		 
+	
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: local("Roboto"),
+	url("..\fonts\Roboto.woff2") format("woff2"),
+	     url("..\fonts\Roboto.ttf") format("truetype");	
+font-weight: 700;
+font-style: italic;		 
+	
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: local("Roboto"),
+	url("..\fonts\Roboto.woff2") format("woff2"),
+	     url("..\fonts\Roboto.ttf") format("truetype");	
+font-weight: 400;
+font-style: italic;		 
+	
+}
+ 
+
+
+
+span {
+  background-color: #27ae60; /* Зелёный */
+}
+
+div span {
+  background-color: #2980b9; /* Синий */
+}
+
+#floor .cat-in-box {
+  background-color: yellow; /* Мокрый асфальт */
+}
+
+.cat-in-box {
+  background-color: #8e44ad; /* Фиолетовый */
+}
+
+#floor span {
+  background-color: #c0392b; /* Красный */
+}
+
+div .cat-in-box {
+  background-color: #e67e22; /* Оранжевый */
+}
+
+
+body {
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: normal;
+	
+}
+
+
+
+
+
+	
+.font {
+	
+	/*font-weight:400;*/
+	font-style: oblique;
+	
+}
